@@ -20,6 +20,16 @@ Un clásico juego de Snake construido con tecnologías web.
 * **Demo en vivo:** En proceso...
 * **Repositorio:** `fieldwork-projects/snake-game`
 
+### **2. ⏱️ StopWatch**
+
+Un cronómetro digital básico usando tecnologías web.
+
+* **Descripción:** Una implementación funcional de un cronómetro. El objetivo principal era practicar la manipulación de tiempo con JS, la actualización dinámica de la interfaz y el manejo de los eventos de los botones (start, pause, stop).
+* **Tecnologías:** `HTML`, `CSS`, `JavaScript`.
+* **Estado:** Completado.
+* **Demo en vivo:** En proceso...
+* **Repositorio:** `fieldwork-projects/snake-game`
+
 ---
 ## 🚧 Cómo usar este repositorio
 
